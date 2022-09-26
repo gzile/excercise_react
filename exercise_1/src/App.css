@@ -10,4 +10,8 @@
   margin: 2px auto;
 }
 
-
+.btn-add {
+  border-radius: 10px;
+  background-color: aliceblue;
+  margin: 10px;
+}

@@ -3,7 +3,7 @@ import '../App.css'
 // Define props as destructured object
 const Main = ({mainTitle, list}) => {
 
-  return (
+    return (
     <main className='mainStyle'>
       <p>{mainTitle}</p>
       <ul>
